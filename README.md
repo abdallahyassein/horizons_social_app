@@ -1,6 +1,6 @@
 # social_app
 
-A new Flutter project.
+Video for project : https://www.youtube.com/watch?v=atWbi_v1w7A
 
 ## Getting Started
 
